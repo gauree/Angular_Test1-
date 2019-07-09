@@ -1,0 +1,19 @@
+.address_card{
+
+    border-style: solid;
+    border-width: 1px;
+    border-color: blueviolet;
+    padding:15px;
+
+}
+
+.title{
+	font-style: italic;
+
+}
+
+.phone{
+   border-left:1px ;
+   padding-left: 5px;
+   border-color: yellow;
+}
